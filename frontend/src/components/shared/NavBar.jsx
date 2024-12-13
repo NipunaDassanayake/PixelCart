@@ -23,7 +23,7 @@ const NavBar = () => {
           textAlign={"center"}
           color="blue.500"
         >
-          <Link to={"/"}>PixelCart 🛒</Link>
+          <Link to={"/"}>Product Store 🛒</Link>
         </Heading>
 
         <HStack spacing={3} alignItems={"center"}>
